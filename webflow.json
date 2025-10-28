@@ -1,6 +1,6 @@
 {
   "cosmic": {
-    "framework": "next",
+    "framework": "nextjs",
     "build": "npm run build",
     "output": ".next"
   }
