@@ -1,4 +1,6 @@
 {
-  "framework": "static",
-  "output": "." 
+  "cosmic": {
+    "framework": "static",
+    "output": "."
+  }
 }
