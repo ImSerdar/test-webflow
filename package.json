@@ -19,7 +19,7 @@
   "devDependencies": {
     "eslint": "^8",
     "eslint-config-next": "14.2.3",
-    "wrangler": "^3.0.0",
+    "wrangler": "^4.24.4",
     "open-next": "^2.4.0"
   }
 }
