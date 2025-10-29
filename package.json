@@ -20,7 +20,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.3",
     "wrangler": "^4.24.4",
-    "open-next": "^2.4.0"
+    "open-next": "^2.5.3"
   }
 }
 
